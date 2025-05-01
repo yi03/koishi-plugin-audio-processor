@@ -6,6 +6,7 @@
 [![Koishi Plugin](https://img.shields.io/npm/dm/koishi-plugin-audio-processor?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-audio-processor)
 
 本插件在 [audio-reverse](https://github.com/windbullet/koishi-plugin-audio-reverse) 和 [audio-speed-changer](https://github.com/windbullet/koishi-plugin-audio-speed-changer) 插件的基础上改的。
+
 **依赖:**
 
 *   `koishi-plugin-ffmpeg`: 用于音频处理核心。
