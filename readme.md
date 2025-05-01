@@ -1,12 +1,11 @@
 # koishi-plugin-audio-processor
 
-提供语音变速和倒放处理功能。
+提供简单易用的语音处理功能，包括变速、倒放和剪辑。
 
 [![Koishi Plugin](https://img.shields.io/npm/v/koishi-plugin-audio-processor?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-audio-processor)
 [![Koishi Plugin](https://img.shields.io/npm/dm/koishi-plugin-audio-processor?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-audio-processor)
 
-一个 Koishi 插件，提供简单易用的语音处理功能，包括变速、倒放和剪辑。
-
+本插件在 [audio-reverse](https://github.com/windbullet/koishi-plugin-audio-reverse) 和 [audio-speed-changer](https://github.com/windbullet/koishi-plugin-audio-speed-changer) 插件的基础上改的。
 **依赖:**
 
 *   `koishi-plugin-ffmpeg`: 用于音频处理核心。
